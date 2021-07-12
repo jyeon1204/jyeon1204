@@ -5,3 +5,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
+  
+  ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white") ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white") ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white") ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white")
+
+</p>
