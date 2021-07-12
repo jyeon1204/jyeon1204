@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiYeonKim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JiYeonKim&fontSize=80)
 
-<br>
 
 <h3 align="center"> 💻 Tech Stack 💻</h3>
 
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center"> ✨ Me ✨</h3>
 
