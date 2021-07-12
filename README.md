@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JiYeonKim&fontSize=90)
+![header](height=300&section=header&text=JiYeonKim&fontSize=90)
 
 <h3 align="center"> 💻  Tech Stack 💻</h3>
 
