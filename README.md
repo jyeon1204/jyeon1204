@@ -15,10 +15,14 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 </p>
 
+
+
 <h3 align="center"> ✨ Me ✨</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/_12x04/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link="https://www.instagram.com/_12x04/"/>
+    <a href="https://www.notion.so/JiYeon-Kim-89f7ca40931246dab8576e3d1e3af3c5"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link="https://www.notion.so/JiYeon-Kim-89f7ca40931246dab8576e3d1e3af3c"/>
+    
 </p>
 
 <br>
